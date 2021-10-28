@@ -60,7 +60,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>io.github.alihabibian.sudoku/io.github.alihabibian.sudoku.HelloApplication
+                            <mainClass>io.github.alihabibian.sudoku/io.github.alihabibian.sudoku.SudokuApplication
                             </mainClass>
                         </configuration>
                     </execution>
