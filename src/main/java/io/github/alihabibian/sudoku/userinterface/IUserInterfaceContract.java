@@ -4,7 +4,7 @@ import io.github.alihabibian.sudoku.problemdoamin.SudokuGame;
 
 public interface IUserInterfaceContract {
     interface EventListener {
-        void onSudokuInput(int x, int y);
+        void onSudokuInput(int x, int y, int value);
 
         void onDialogClick();
     }

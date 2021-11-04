@@ -1,6 +1,6 @@
 package io.github.alihabibian.sudoku.problemdoamin;
 
-import sudoku.constants.GameState;
+import io.github.alihabibian.sudoku.constants.GameState;
 
 import java.io.Serializable;
 
